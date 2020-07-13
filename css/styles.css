@@ -1,0 +1,27 @@
+
+a{
+	color:blue;
+	text-decoration: none;
+}
+
+a:hover{
+	color:red;
+	text-decoration: none;
+}
+body{
+	background-color: beige;
+	text-align: center;
+	color:black;
+
+}
+footer{
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+h1{
+	color: #075AAB;
+	margin-top: 3rem;
+	margin-bottom: 0.5rem;
+	font-family: italic;
+}
