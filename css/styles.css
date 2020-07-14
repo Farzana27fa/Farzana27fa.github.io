@@ -1,0 +1,145 @@
+
+a{
+	color:maroon;
+	text-decoration: none;
+}
+
+a:hover{
+	color:purple;
+	text-decoration: underline;
+}
+body{
+	background-image:url(back3.jpg);
+	text-align: center;
+	color:black;
+	
+	/*background-repeat:no-repeat;
+background-attachment:fixed;*/
+
+}
+footer{
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+ .bd
+  {
+      position: fixed;
+      background-color:black;
+      text-align: center;
+      color: white;
+      
+      background-size: cover;
+    }  
+  
+h1{
+	color: #5C2018;
+	margin-top: 1rem;
+	margin-bottom: 0.5rem;
+	font-family: Brush Script MT;
+	font-size:50px; 
+}
+h2{
+	font-family: arial;
+	font-size:30px;
+
+}
+.pinfo{
+	background-color: #A86B;
+	text-align: left;
+}
+
+.nav-wrapper {
+	text-align: top;
+	height: 22ptx;
+	font-size:1.5em;
+	border-bottom: 1px solid transparent;
+	transition:border-bottom 0.5s;
+	background-color: #A86B;
+
+}
+.nav-wrapper a{
+	color: #501B1D;
+	transition: color 0.5s;
+	
+}
+
+.nav-wrapper a:hover{
+		color:black;
+		text-decoration: underline;
+}
+.hby{
+	text-align: left;
+}
+
+.bdy{
+	/*background-color: #EFC3A3;*/
+	background-image: url(https://www.pinterest.com/pin/116952921562075930/);
+	background-size: cover;
+}
+.ct{
+	border-collapse: collapse;
+	margin: 25px 0;
+	font-size: 1em;
+	min-width: 400px;
+	border-radius: 5px 5px 0 0;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0,0,0,0.15);
+}
+.ct thead tr {
+	background-color: #a3543d;
+	color:#ffffff;
+	text-align: left;
+	font-weight: bold;
+}
+.ct th, .ct td{
+	padding:12px 15px;
+}
+
+.ct tbody tr {
+	border-bottom: 1px solid #dddddd;
+}
+.ct tbody tr:nth-of-type(even){
+	background-color: #D2AE66;
+	border-bottom: 2px solid #a3543d;
+}
+.ct tbody tr:nth-of-type(odd){
+	background-color: #D5A07E;
+	border-bottom: 2px solid #a3543d;
+}
+.ct tbody tr:last-of-type{
+	border-bottom: 2px solid #a3543d;
+}
+.cts{
+	border-collapse: collapse;
+	margin: 25px 0;
+	font-size: 1em;
+	min-width: 400px;
+	border-radius: 5px 5px 0 0;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0,0,0,0.15);
+}
+.cts thead tr {
+	background-color: #a3543d;
+	color:#ffffff;
+	text-align: left;
+	font-weight: bold;
+}
+.cts th, .cts td{
+	padding:12px 15px;
+}
+
+.cts tbody tr {
+	border-bottom: 1px solid #dddddd;
+}
+.cts tbody tr:nth-of-type(even){
+	background-color: #D2AE66;
+	border-bottom: 2px solid #a3543d;
+}
+.cts tbody tr:nth-of-type(odd){
+	background-color: #D5A07E;
+	border-bottom: 2px solid #a3543d;
+}
+.cts tbody tr:last-of-type{
+	border-bottom: 2px solid #a3543d;
+}
